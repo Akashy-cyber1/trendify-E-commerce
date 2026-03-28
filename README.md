@@ -26,4 +26,4 @@ Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-com
 - **React.js**: Modern frontend library for building dynamic user interfaces.
 - **Node.js**: JavaScript runtime environment for running the backend.
 - **Stripe**: Integrated payment gateway for processing transactions.
-- **JWT**: JSON Web Tokens for secure user sessions.
+- **JWT**: JSON Web Tokens for secure user sessions. 
